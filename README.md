@@ -2,6 +2,7 @@
 
 ## Modern Workflow Techniques
 
-This is our first experience with github flow
+This is our first experience with github flow.
+
 
 
